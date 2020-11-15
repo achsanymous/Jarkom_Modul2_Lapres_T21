@@ -2,14 +2,15 @@
 
 NAMA ANGGOTA :
 ACHSAN NOORSALAM 05311840000021
+
 I KOMANG ADITYA MAHADIHARJA 05311840000042
 
 ## MODUL 2 
 
-PENDAHULUAN
+##PENDAHULUAN
 
 
-membuat topologi
+###membuat topologi
 1. membuat topologi.sh pada putty
 
 2. menghapus # pada net.ipv4.ip_forward=1 di nano /etc/sysctl.conf yang ada di UML SURABAYA
